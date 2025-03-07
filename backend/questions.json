@@ -1,0 +1,35 @@
+[
+  {
+    "question": "Abuja is the capital city of which country?",
+    "category": "geography",
+    "difficulty": "hard",
+    "correctAnswer": "Nigeria",
+    "incorrectAnswers": [
+      "Oman",
+      "Uruguay",
+      "Lesotho"
+    ]
+  },
+  {
+    "question": "What is the capital city of Oman?",
+    "category": "geography",
+    "difficulty": "hard",
+    "correctAnswer": "Muscat",
+    "incorrectAnswers": [
+      "Niamey",
+      "Kabul",
+      "Gitega"
+    ]
+  },
+  {
+    "question": "In an early Stephen King novel, which titular character is a student at Ewen High?",
+    "category": "arts_and_literature",
+    "difficulty": "medium",
+    "correctAnswer": "Carrie",
+    "incorrectAnswers": [
+      "Annie",
+      "Megan",
+      "Emily"
+    ]
+  }
+]
